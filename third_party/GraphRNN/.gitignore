@@ -1,0 +1,6 @@
+__pycache__
+venv
+tensorboard
+graphs
+dataset
+model_save
